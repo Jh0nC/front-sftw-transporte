@@ -1,7 +1,11 @@
+import { RespContainer } from "./";
+
 function App() {
   return (
     <>
-      <h1>Software de Transporte</h1>
+      <RespContainer>
+        <div></div>
+      </RespContainer>
     </>
   )
 }
